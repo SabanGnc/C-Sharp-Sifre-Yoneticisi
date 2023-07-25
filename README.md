@@ -21,17 +21,17 @@ Uygulama, verileri saklamak için hafif ve yerel bir SQL Lite veritabanı kullan
 
 ## Özellikler: ✨
 
-1. ## Hesap Bilgilerini Kaydetme: 💻💼
+## Hesap Bilgilerini Kaydetme: 💻💼
 Kullanıcılar, farklı hesaplarının kullanıcı adlarını, şifrelerini ve diğer ilgili bilgilerini uygulama içerisinde saklayabilirler. Bu, kullanıcıların tek bir yerde tüm giriş bilgilerini güvenli bir şekilde depolamalarına olanak tanır.
 
-2. ## Kategorileri Oluşturma: 🗂️📂
+## Kategorileri Oluşturma: 🗂️📂
 Kullanıcılar, farklı kategoriler altında hesaplarını düzenleyebilirler. Örneğin, sosyal medya hesapları, e-posta hesapları, banka hesapları gibi farklı kategoriler oluşturarak verilerini daha düzenli bir şekilde yönetebilirler.
 
 
-3. ## Hesapları Arama: 🔍📝
+## Hesapları Arama: 🔍📝
 Proje, kullanıcıların büyük miktardaki hesap bilgileri arasında kolayca gezinmelerine olanak tanır. Basit bir arama işlevi sayesinde istedikleri hesapları hızlıca bulabilirler.
 
-4. ## Güvenli Şifre Oluşturma: 🔒🔑
+## Güvenli Şifre Oluşturma: 🔒🔑
 Uygulama, kullanıcıların karmaşık ve güvenli şifreler oluşturmalarına yardımcı olacak bir araç içerir. Bu, kullanıcıların zayıf şifreleri unutarak güvenlik açıklarını önlemelerine yardımcı olur.
 
 # Ana Veri Akışı: 🔄
