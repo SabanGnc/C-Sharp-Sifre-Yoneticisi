@@ -1,10 +1,15 @@
 # C# Güvenli Şifre Yöneticisi Projesi 🚀🔐
 
 ![Ekran görüntüsü 2023-07-25 173837](https://github.com/SabanGnc/C-Sharp-Sifre-Yoneticisi/assets/139702707/7ca54335-8bd6-4c38-8b18-45bb20a9ad2a)
+#
 ![Ekran görüntüsü 2023-07-25 173138](https://github.com/SabanGnc/C-Sharp-Sifre-Yoneticisi/assets/139702707/93a2811f-10a2-416f-97a5-993bf36a6b5c)
+#
 ![Ekran görüntüsü 2023-07-25 173225](https://github.com/SabanGnc/C-Sharp-Sifre-Yoneticisi/assets/139702707/7b5ad338-4923-4db0-8fd3-4fd343782942)
+#
 ![Ekran görüntüsü 2023-07-25 173937](https://github.com/SabanGnc/C-Sharp-Sifre-Yoneticisi/assets/139702707/4a956cee-33c6-43db-97bf-8e69e57eae8b)
+#
 ![Ekran görüntüsü 2023-07-25 174023](https://github.com/SabanGnc/C-Sharp-Sifre-Yoneticisi/assets/139702707/62f03823-655c-4d30-8664-449943e8de28)
+#
 
 
 ## Proje Tanımı: 📝
