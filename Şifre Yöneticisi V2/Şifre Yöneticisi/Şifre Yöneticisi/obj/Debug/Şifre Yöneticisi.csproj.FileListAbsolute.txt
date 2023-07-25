@@ -1,0 +1,48 @@
+C:\Users\saban\OneDrive\Masaüstü\Şifre Yöneticisi\Şifre Yöneticisi\Şifre Yöneticisi\bin\Debug\Şifre Yöneticisi.exe.config
+C:\Users\saban\OneDrive\Masaüstü\Şifre Yöneticisi\Şifre Yöneticisi\Şifre Yöneticisi\bin\Debug\Şifre Yöneticisi.exe
+C:\Users\saban\OneDrive\Masaüstü\Şifre Yöneticisi\Şifre Yöneticisi\Şifre Yöneticisi\bin\Debug\Şifre Yöneticisi.pdb
+C:\Users\saban\OneDrive\Masaüstü\Şifre Yöneticisi\Şifre Yöneticisi\Şifre Yöneticisi\bin\Debug\Guna.UI2.dll
+C:\Users\saban\OneDrive\Masaüstü\Şifre Yöneticisi\Şifre Yöneticisi\Şifre Yöneticisi\obj\Debug\Şifre Yöneticisi.csproj.AssemblyReference.cache
+C:\Users\saban\OneDrive\Masaüstü\Şifre Yöneticisi\Şifre Yöneticisi\Şifre Yöneticisi\obj\Debug\Şifre Yöneticisi.csproj.SuggestedBindingRedirects.cache
+C:\Users\saban\OneDrive\Masaüstü\Şifre Yöneticisi\Şifre Yöneticisi\Şifre Yöneticisi\obj\Debug\Şifre_Yöneticisi.Form1.resources
+C:\Users\saban\OneDrive\Masaüstü\Şifre Yöneticisi\Şifre Yöneticisi\Şifre Yöneticisi\obj\Debug\Şifre_Yöneticisi.Properties.Resources.resources
+C:\Users\saban\OneDrive\Masaüstü\Şifre Yöneticisi\Şifre Yöneticisi\Şifre Yöneticisi\obj\Debug\Şifre Yöneticisi.csproj.GenerateResource.cache
+C:\Users\saban\OneDrive\Masaüstü\Şifre Yöneticisi\Şifre Yöneticisi\Şifre Yöneticisi\obj\Debug\Şifre Yöneticisi.csproj.CoreCompileInputs.cache
+C:\Users\saban\OneDrive\Masaüstü\Şifre Yöneticisi\Şifre Yöneticisi\Şifre Yöneticisi\obj\Debug\Şifre Yöneticisi.csproj.CopyComplete
+C:\Users\saban\OneDrive\Masaüstü\Şifre Yöneticisi\Şifre Yöneticisi\Şifre Yöneticisi\obj\Debug\Şifre Yöneticisi.exe
+C:\Users\saban\OneDrive\Masaüstü\Şifre Yöneticisi\Şifre Yöneticisi\Şifre Yöneticisi\obj\Debug\Şifre Yöneticisi.pdb
+C:\Users\saban\OneDrive\Masaüstü\Şifre Yöneticisi\Şifre Yöneticisi\Şifre Yöneticisi\bin\Debug\EntityFramework.dll
+C:\Users\saban\OneDrive\Masaüstü\Şifre Yöneticisi\Şifre Yöneticisi\Şifre Yöneticisi\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\saban\OneDrive\Masaüstü\Şifre Yöneticisi\Şifre Yöneticisi\Şifre Yöneticisi\bin\Debug\System.Data.SQLite.dll
+C:\Users\saban\OneDrive\Masaüstü\Şifre Yöneticisi\Şifre Yöneticisi\Şifre Yöneticisi\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\saban\OneDrive\Masaüstü\Şifre Yöneticisi\Şifre Yöneticisi\Şifre Yöneticisi\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\saban\OneDrive\Masaüstü\Şifre Yöneticisi\Şifre Yöneticisi\Şifre Yöneticisi\bin\Debug\EntityFramework.xml
+C:\Users\saban\OneDrive\Masaüstü\Şifre Yöneticisi\Şifre Yöneticisi\Şifre Yöneticisi\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\saban\OneDrive\Masaüstü\Şifre Yöneticisi\Şifre Yöneticisi\Şifre Yöneticisi\bin\Debug\System.Data.SQLite.xml
+C:\Users\saban\OneDrive\Masaüstü\Şifre Yöneticisi\Şifre Yöneticisi\Şifre Yöneticisi\obj\Debug\Şifre_Yöneticisi.Form2.resources
+C:\Users\saban\OneDrive\Masaüstü\Şifre Yöneticisi\Şifre Yöneticisi\Şifre Yöneticisi\obj\Debug\Şifre_Yöneticisi.Form3.resources
+C:\Users\saban\OneDrive\Masaüstü\Şifre Yöneticisi V2\Şifre Yöneticisi\Şifre Yöneticisi\bin\Debug\Şifre Yöneticisi.exe.config
+C:\Users\saban\OneDrive\Masaüstü\Şifre Yöneticisi V2\Şifre Yöneticisi\Şifre Yöneticisi\bin\Debug\Şifre Yöneticisi.exe
+C:\Users\saban\OneDrive\Masaüstü\Şifre Yöneticisi V2\Şifre Yöneticisi\Şifre Yöneticisi\bin\Debug\Şifre Yöneticisi.pdb
+C:\Users\saban\OneDrive\Masaüstü\Şifre Yöneticisi V2\Şifre Yöneticisi\Şifre Yöneticisi\bin\Debug\EntityFramework.dll
+C:\Users\saban\OneDrive\Masaüstü\Şifre Yöneticisi V2\Şifre Yöneticisi\Şifre Yöneticisi\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\saban\OneDrive\Masaüstü\Şifre Yöneticisi V2\Şifre Yöneticisi\Şifre Yöneticisi\bin\Debug\Guna.UI2.dll
+C:\Users\saban\OneDrive\Masaüstü\Şifre Yöneticisi V2\Şifre Yöneticisi\Şifre Yöneticisi\bin\Debug\System.Data.SQLite.dll
+C:\Users\saban\OneDrive\Masaüstü\Şifre Yöneticisi V2\Şifre Yöneticisi\Şifre Yöneticisi\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\saban\OneDrive\Masaüstü\Şifre Yöneticisi V2\Şifre Yöneticisi\Şifre Yöneticisi\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\saban\OneDrive\Masaüstü\Şifre Yöneticisi V2\Şifre Yöneticisi\Şifre Yöneticisi\bin\Debug\EntityFramework.xml
+C:\Users\saban\OneDrive\Masaüstü\Şifre Yöneticisi V2\Şifre Yöneticisi\Şifre Yöneticisi\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\saban\OneDrive\Masaüstü\Şifre Yöneticisi V2\Şifre Yöneticisi\Şifre Yöneticisi\bin\Debug\System.Data.SQLite.xml
+C:\Users\saban\OneDrive\Masaüstü\Şifre Yöneticisi V2\Şifre Yöneticisi\Şifre Yöneticisi\obj\Debug\Şifre Yöneticisi.csproj.AssemblyReference.cache
+C:\Users\saban\OneDrive\Masaüstü\Şifre Yöneticisi V2\Şifre Yöneticisi\Şifre Yöneticisi\obj\Debug\Şifre Yöneticisi.csproj.SuggestedBindingRedirects.cache
+C:\Users\saban\OneDrive\Masaüstü\Şifre Yöneticisi V2\Şifre Yöneticisi\Şifre Yöneticisi\obj\Debug\Şifre_Yöneticisi.Form1.resources
+C:\Users\saban\OneDrive\Masaüstü\Şifre Yöneticisi V2\Şifre Yöneticisi\Şifre Yöneticisi\obj\Debug\Şifre_Yöneticisi.Form2.resources
+C:\Users\saban\OneDrive\Masaüstü\Şifre Yöneticisi V2\Şifre Yöneticisi\Şifre Yöneticisi\obj\Debug\Şifre_Yöneticisi.Form3.resources
+C:\Users\saban\OneDrive\Masaüstü\Şifre Yöneticisi V2\Şifre Yöneticisi\Şifre Yöneticisi\obj\Debug\Şifre_Yöneticisi.Properties.Resources.resources
+C:\Users\saban\OneDrive\Masaüstü\Şifre Yöneticisi V2\Şifre Yöneticisi\Şifre Yöneticisi\obj\Debug\Şifre Yöneticisi.csproj.GenerateResource.cache
+C:\Users\saban\OneDrive\Masaüstü\Şifre Yöneticisi V2\Şifre Yöneticisi\Şifre Yöneticisi\obj\Debug\Şifre Yöneticisi.csproj.CoreCompileInputs.cache
+C:\Users\saban\OneDrive\Masaüstü\Şifre Yöneticisi V2\Şifre Yöneticisi\Şifre Yöneticisi\obj\Debug\Şifre Yöneticisi.csproj.CopyComplete
+C:\Users\saban\OneDrive\Masaüstü\Şifre Yöneticisi V2\Şifre Yöneticisi\Şifre Yöneticisi\obj\Debug\Şifre Yöneticisi.exe
+C:\Users\saban\OneDrive\Masaüstü\Şifre Yöneticisi V2\Şifre Yöneticisi\Şifre Yöneticisi\obj\Debug\Şifre Yöneticisi.pdb
+C:\Users\saban\OneDrive\Masaüstü\Şifre Yöneticisi V2\Şifre Yöneticisi\Şifre Yöneticisi\obj\Debug\Şifre_Yöneticisi.Form4.resources
+C:\Users\saban\OneDrive\Masaüstü\Şifre Yöneticisi V2\Şifre Yöneticisi\Şifre Yöneticisi\obj\Debug\Şifre_Yöneticisi.Form5.resources
