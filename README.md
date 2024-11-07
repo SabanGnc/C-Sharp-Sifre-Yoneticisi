@@ -14,7 +14,7 @@
 
 ## Proje Tanımı: 📝
 
-Bu proje, C# programlama dili kullanılarak geliştirilen güvenli şifre yöneticisidir. Kullanıcıların hesap bilgilerini güvenli bir şekilde saklamalarına ve yönetmelerine olanak tanır. Proje, kullanıcıların kategoriler oluşturarak hesaplarını düzenlemelerine ve karmaşık şifreler oluşturmalarına yardımcı olacak pratik özellikler sunar.
+
 
 ## SQL Lite Veritabanı: 💾
 Uygulama, verileri saklamak için hafif ve yerel bir SQL Lite veritabanı kullanır. Bu, kullanıcıların verilerini güvenli ve hızlı bir şekilde yönetmelerini sağlar.
